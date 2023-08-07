@@ -5,7 +5,7 @@ Welcome to NLPExpress! This repository provides hands-on examples and tutorials 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Sentiment Analysis with Logistic Regression](https://github.com/annaalexandragrigoryan/MLExpress/blob/20dd8287c95bd07e4b66f1989bbfee98dacf511b/LinearRegression.ipynb)
+2. [Sentiment Analysis with Logistic Regression](https://github.com/annaalexandragrigoryan/NLPExpress/blob/d9495b38584d750c76d6432319f03f1239ea7da0/Sentiment_Analysis_w_LogisticRegression.ipynb)
 3. [Sentiment Analysis with Naive Bayes](https://github.com/annaalexandragrigoryan/NLPExpress/blob/main/Sentiment_Analysis_w_Naive_Bayes.ipynb)
 4. [Sentiment Analysis with DNN](https://github.com/annaalexandragrigoryan/NLPExpress/blob/main/Sentiment_w_DNN.ipynb)
 5. [Naive Machine Translation LSH](https://github.com/annaalexandragrigoryan/NLPExpress/blob/main/Naive_Machine_Translation_LSH.ipynb)
